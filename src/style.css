@@ -63,7 +63,7 @@ footer {
   border-style: solid;
   border-color: var(--color-border);
   border-width: 20px 25px;;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-family);
 }
 
 form {
